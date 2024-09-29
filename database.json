@@ -1,0 +1,26 @@
+{
+    "users": [
+      {
+        "uid": 1,
+        "name": "Nikas",
+        "hwid": "2f39781f9a8f7225b5959f71f68accc4",
+        "subscribe": true,
+        "ban": false
+      },
+      {
+        "uid": 2,
+        "name": "user2",
+        "hwid": "DEF456XYZ",
+        "subscribe": false,
+        "ban": true
+      },
+      {
+        "uid": 3,
+        "name": "user3",
+        "hwid": "GHI789XYZ",
+        "subscribe": true,
+        "ban": false
+      }
+    ]
+  }
+  
