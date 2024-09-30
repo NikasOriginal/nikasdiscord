@@ -1,26 +1,28 @@
 {
-    "users": [
-      {
-        "uid": 1,
-        "name": "Nikas",
-        "hwid": "d194fc018e8919d36a777a4ae0f29711",
-        "subscribe": true,
-        "ban": false
-      },
-      {
-        "uid": 2,
-        "name": "user2",
-        "hwid": "DEF456XYZ",
-        "subscribe": false,
-        "ban": true
-      },
-      {
-        "uid": 3,
-        "name": "user3",
-        "hwid": "GHI789XYZ",
-        "subscribe": true,
-        "ban": false
-      }
-    ]
-  }
-  
+  "users": [
+    {
+      "uid": 1,
+      "name": "Nikas",
+      "hwid": "d194fc018e8919d36a777a4ae0f29711",
+      "subscribe": true,
+      "ban": false,
+      "password": "password1"
+    },
+    {
+      "uid": 2,
+      "name": "user2",
+      "hwid": "DEF456XYZ",
+      "subscribe": false,
+      "ban": true,
+      "password": "password2"
+    },
+    {
+      "uid": 3,
+      "name": "user3",
+      "hwid": "GHI789XYZ",
+      "subscribe": true,
+      "ban": false,
+      "password": "password3"
+    }
+  ]
+}
